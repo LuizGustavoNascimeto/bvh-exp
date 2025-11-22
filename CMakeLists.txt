@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.21)
+project(bvh_exp)
+add_executable(main main.cpp)
+add_subdirectory(contrib/bvh)
+target_link_library(bvh_exp PUBLIC bvh)
