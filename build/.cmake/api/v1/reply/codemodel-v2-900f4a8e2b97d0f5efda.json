@@ -1,0 +1,130 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Threads::Threads::@17d5ddff0ef69974c17f",
+					"jsonFile" : "target-Threads__Threads-e487fd446cbd7dd7333f.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bvh::@17d5ddff0ef69974c17f",
+					"jsonFile" : "target-bvh-ee445f7ee19a7076c05f.json",
+					"name" : "bvh",
+					"projectIndex" : 1
+				}
+			],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-f6f22219c74102c3da70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "contrib/bvh",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-contrib.bvh-732ce77160943b932bdb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "contrib/bvh"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"build" : "contrib/bvh/src/bvh/v2",
+					"jsonFile" : "directory-contrib.bvh.src.bvh.v2-b8d7ae35c6847da37106.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "contrib/bvh/src/bvh/v2"
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bvh_exp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "bvh",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bvh_exp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bvh_exp-9c3514b85d5ca03d7ed0.json",
+					"name" : "bvh_exp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/luizg/projetos/bvh-exp/build",
+		"source" : "C:/Users/luizg/projetos/bvh-exp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

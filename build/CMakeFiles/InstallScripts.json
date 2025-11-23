@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/luizg/projetos/bvh-exp/build/cmake_install.cmake",
+		"C:/Users/luizg/projetos/bvh-exp/build/contrib/bvh/cmake_install.cmake",
+		"C:/Users/luizg/projetos/bvh-exp/build/contrib/bvh/src/bvh/v2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

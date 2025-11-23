@@ -1,0 +1,7 @@
+C:/Users/luizg/projetos/bvh-exp/build/CMakeFiles/bvh_exp.dir
+C:/Users/luizg/projetos/bvh-exp/build/CMakeFiles/edit_cache.dir
+C:/Users/luizg/projetos/bvh-exp/build/CMakeFiles/rebuild_cache.dir
+C:/Users/luizg/projetos/bvh-exp/build/contrib/bvh/CMakeFiles/edit_cache.dir
+C:/Users/luizg/projetos/bvh-exp/build/contrib/bvh/CMakeFiles/rebuild_cache.dir
+C:/Users/luizg/projetos/bvh-exp/build/contrib/bvh/src/bvh/v2/CMakeFiles/edit_cache.dir
+C:/Users/luizg/projetos/bvh-exp/build/contrib/bvh/src/bvh/v2/CMakeFiles/rebuild_cache.dir
